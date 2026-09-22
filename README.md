@@ -2,8 +2,6 @@
 
 Módulo autoritativo de manutenção por cargas de combate para Aetherius/SkyMP.
 
-O pacote foi criado isoladamente em `C:\Code\Aetherius - SkyMP\AetheriusDurabilitySystem`. Ele não altera os snapshots existentes do servidor, cliente, load order ou MO2.
-
 ## Estado da entrega
 
 Implementado no pacote:
